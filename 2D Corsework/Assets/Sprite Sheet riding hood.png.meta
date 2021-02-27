@@ -1,0 +1,3152 @@
+fileFormatVersion: 2
+guid: 68b03775e77ef10499eb6c0e7dd6f0fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 280369299407698088
+    second: Sprite Sheet riding hood_0
+  - first:
+      213: 5624727193364779011
+    second: Sprite Sheet riding hood_1
+  - first:
+      213: 4670971954294839778
+    second: Sprite Sheet riding hood_2
+  - first:
+      213: 8807574570158540022
+    second: Sprite Sheet riding hood_3
+  - first:
+      213: -5274620421317829132
+    second: Sprite Sheet riding hood_4
+  - first:
+      213: -2559483001200919068
+    second: Sprite Sheet riding hood_5
+  - first:
+      213: -8873922488883266506
+    second: Sprite Sheet riding hood_6
+  - first:
+      213: 3616578643123918652
+    second: Sprite Sheet riding hood_7
+  - first:
+      213: 6323710649078389235
+    second: Sprite Sheet riding hood_8
+  - first:
+      213: -877925809208609187
+    second: Sprite Sheet riding hood_9
+  - first:
+      213: -6536919717132420291
+    second: Sprite Sheet riding hood_10
+  - first:
+      213: 4045692763296119199
+    second: Sprite Sheet riding hood_11
+  - first:
+      213: -6309014969909888640
+    second: Sprite Sheet riding hood_12
+  - first:
+      213: 7966174601954972127
+    second: Sprite Sheet riding hood_13
+  - first:
+      213: -1238765255791263758
+    second: Sprite Sheet riding hood_14
+  - first:
+      213: -2741449593693080528
+    second: Sprite Sheet riding hood_15
+  - first:
+      213: -486931120779190417
+    second: Sprite Sheet riding hood_16
+  - first:
+      213: 2693721530649558671
+    second: Sprite Sheet riding hood_17
+  - first:
+      213: -9104287858393441791
+    second: Sprite Sheet riding hood_18
+  - first:
+      213: 2615111767919633686
+    second: Sprite Sheet riding hood_19
+  - first:
+      213: -15129083235038113
+    second: Sprite Sheet riding hood_20
+  - first:
+      213: 8783565684255069875
+    second: Sprite Sheet riding hood_21
+  - first:
+      213: 1504804680666407581
+    second: Sprite Sheet riding hood_22
+  - first:
+      213: -1777810363996784955
+    second: Sprite Sheet riding hood_23
+  - first:
+      213: -5665821111973914517
+    second: Sprite Sheet riding hood_24
+  - first:
+      213: 8095004708072128644
+    second: Sprite Sheet riding hood_25
+  - first:
+      213: 6926510335314235711
+    second: Sprite Sheet riding hood_26
+  - first:
+      213: -5437330910693671296
+    second: Sprite Sheet riding hood_27
+  - first:
+      213: -8543984446547427900
+    second: Sprite Sheet riding hood_28
+  - first:
+      213: 2665971531133380111
+    second: Sprite Sheet riding hood_29
+  - first:
+      213: -2919737728483015270
+    second: Sprite Sheet riding hood_30
+  - first:
+      213: -1153131409034415970
+    second: Sprite Sheet riding hood_31
+  - first:
+      213: -799452391705177354
+    second: Sprite Sheet riding hood_32
+  - first:
+      213: 4303190751139116975
+    second: Sprite Sheet riding hood_33
+  - first:
+      213: 5897130215918478874
+    second: Sprite Sheet riding hood_34
+  - first:
+      213: -5170110154040414737
+    second: Sprite Sheet riding hood_35
+  - first:
+      213: -7920926704261977793
+    second: Sprite Sheet riding hood_36
+  - first:
+      213: -6330896534577202722
+    second: Sprite Sheet riding hood_37
+  - first:
+      213: -7935847948674625418
+    second: Sprite Sheet riding hood_38
+  - first:
+      213: -8997264913049569530
+    second: Sprite Sheet riding hood_39
+  - first:
+      213: -9050611336727229527
+    second: Sprite Sheet riding hood_40
+  - first:
+      213: 2636165725096211200
+    second: Sprite Sheet riding hood_41
+  - first:
+      213: 4234292827995222771
+    second: Sprite Sheet riding hood_42
+  - first:
+      213: 5352602213921965305
+    second: Sprite Sheet riding hood_43
+  - first:
+      213: -5058487946990265698
+    second: Sprite Sheet riding hood_44
+  - first:
+      213: -5993464889489242726
+    second: Sprite Sheet riding hood_45
+  - first:
+      213: 2587746364358724265
+    second: Sprite Sheet riding hood_46
+  - first:
+      213: -1620776287470521654
+    second: Sprite Sheet riding hood_47
+  - first:
+      213: -1894317614477661119
+    second: Sprite Sheet riding hood_48
+  - first:
+      213: -111297934985511844
+    second: Sprite Sheet riding hood_49
+  - first:
+      213: -6345085471108229010
+    second: Sprite Sheet riding hood_50
+  - first:
+      213: -4195089062881853198
+    second: Sprite Sheet riding hood_51
+  - first:
+      213: -1268430515463606499
+    second: Sprite Sheet riding hood_52
+  - first:
+      213: -2158422321100687751
+    second: Sprite Sheet riding hood_53
+  - first:
+      213: 4290017942613716888
+    second: Sprite Sheet riding hood_54
+  - first:
+      213: 3249566354438339854
+    second: Sprite Sheet riding hood_55
+  - first:
+      213: -2714784532426800256
+    second: Sprite Sheet riding hood_56
+  - first:
+      213: -3837391339691754565
+    second: Sprite Sheet riding hood_57
+  - first:
+      213: -6839877936380893920
+    second: Sprite Sheet riding hood_58
+  - first:
+      213: 3426332028653261784
+    second: Sprite Sheet riding hood_59
+  - first:
+      213: -6864231232132021507
+    second: Sprite Sheet riding hood_60
+  - first:
+      213: 8955634766979716950
+    second: Sprite Sheet riding hood_61
+  - first:
+      213: -6269552830673902330
+    second: Sprite Sheet riding hood_62
+  - first:
+      213: 3053598939922236993
+    second: Sprite Sheet riding hood_63
+  - first:
+      213: -3192638371028932790
+    second: Sprite Sheet riding hood_64
+  - first:
+      213: -3482455688552732760
+    second: Sprite Sheet riding hood_65
+  - first:
+      213: 7171842665040606570
+    second: Sprite Sheet riding hood_66
+  - first:
+      213: -6784402129213419356
+    second: Sprite Sheet riding hood_67
+  - first:
+      213: 4203230243973428503
+    second: Sprite Sheet riding hood_68
+  - first:
+      213: 3129772982887997494
+    second: Sprite Sheet riding hood_69
+  - first:
+      213: -3767423666150987517
+    second: Sprite Sheet riding hood_70
+  - first:
+      213: 3666229933456875430
+    second: Sprite Sheet riding hood_71
+  - first:
+      213: 4235850180528326438
+    second: Sprite Sheet riding hood_72
+  - first:
+      213: 882201602172742223
+    second: Sprite Sheet riding hood_73
+  - first:
+      213: -1326008144079764023
+    second: Sprite Sheet riding hood_74
+  - first:
+      213: 307734156014443982
+    second: Sprite Sheet riding hood_75
+  - first:
+      213: -939773778477052115
+    second: Sprite Sheet riding hood_76
+  - first:
+      213: -3531725375133058833
+    second: Sprite Sheet riding hood_77
+  - first:
+      213: 5210501524040257546
+    second: Sprite Sheet riding hood_78
+  - first:
+      213: -874600781421805983
+    second: Sprite Sheet riding hood_79
+  - first:
+      213: 4456608832540811887
+    second: Sprite Sheet riding hood_80
+  - first:
+      213: -7863160457901190612
+    second: Sprite Sheet riding hood_81
+  - first:
+      213: 1014956800484799077
+    second: Sprite Sheet riding hood_82
+  - first:
+      213: -8200827103537475505
+    second: Sprite Sheet riding hood_83
+  - first:
+      213: 352613399102856731
+    second: Sprite Sheet riding hood_84
+  - first:
+      213: 8889516568962584256
+    second: Sprite Sheet riding hood_85
+  - first:
+      213: 5463227340122838330
+    second: Sprite Sheet riding hood_86
+  - first:
+      213: 1731005228335483983
+    second: Sprite Sheet riding hood_87
+  - first:
+      213: -104927720688607248
+    second: Sprite Sheet riding hood_88
+  - first:
+      213: -4720259460037436837
+    second: Sprite Sheet riding hood_89
+  - first:
+      213: -6694142251735942319
+    second: Sprite Sheet riding hood_90
+  - first:
+      213: -3208760136875763783
+    second: Sprite Sheet riding hood_91
+  - first:
+      213: 6901726223129731987
+    second: Sprite Sheet riding hood_92
+  - first:
+      213: 5570836294638491344
+    second: Sprite Sheet riding hood_93
+  - first:
+      213: -5103121499358699583
+    second: Sprite Sheet riding hood_94
+  - first:
+      213: 145131467267336098
+    second: Sprite Sheet riding hood_95
+  - first:
+      213: -5205609218200768807
+    second: Sprite Sheet riding hood_96
+  - first:
+      213: -4373870800040479050
+    second: Sprite Sheet riding hood_97
+  - first:
+      213: 6267145582333099506
+    second: Sprite Sheet riding hood_98
+  - first:
+      213: 6650371887893605110
+    second: Sprite Sheet riding hood_99
+  - first:
+      213: -2844121611023265607
+    second: Sprite Sheet riding hood_100
+  - first:
+      213: 329446605915761338
+    second: Sprite Sheet riding hood_101
+  - first:
+      213: 123374583686547690
+    second: Sprite Sheet riding hood_102
+  - first:
+      213: 2159359974039272844
+    second: Sprite Sheet riding hood_103
+  - first:
+      213: -6785376648610023771
+    second: Sprite Sheet riding hood_104
+  - first:
+      213: 5083449424410844670
+    second: Sprite Sheet riding hood_105
+  - first:
+      213: -8292149687438146291
+    second: Sprite Sheet riding hood_106
+  - first:
+      213: 3731877955006563995
+    second: Sprite Sheet riding hood_107
+  - first:
+      213: 6074143861023627267
+    second: Sprite Sheet riding hood_108
+  - first:
+      213: 1213162094365111180
+    second: Sprite Sheet riding hood_109
+  - first:
+      213: 811098002195939993
+    second: Sprite Sheet riding hood_110
+  - first:
+      213: -589408728027374662
+    second: Sprite Sheet riding hood_111
+  - first:
+      213: -3903499157061265448
+    second: Sprite Sheet riding hood_112
+  - first:
+      213: -1353950403952407337
+    second: Sprite Sheet riding hood_113
+  - first:
+      213: -431059457012763823
+    second: Sprite Sheet riding hood_114
+  - first:
+      213: 3787228562034735662
+    second: Sprite Sheet riding hood_115
+  - first:
+      213: -8267534044497102277
+    second: Sprite Sheet riding hood_116
+  - first:
+      213: -4931429400001187462
+    second: Sprite Sheet riding hood_117
+  - first:
+      213: 3424649004854229494
+    second: Sprite Sheet riding hood_118
+  - first:
+      213: -4774470867776010950
+    second: Sprite Sheet riding hood_119
+  - first:
+      213: 4510785063563926753
+    second: Sprite Sheet riding hood_120
+  - first:
+      213: 9049103886006761105
+    second: Sprite Sheet riding hood_121
+  - first:
+      213: -1965070790822529972
+    second: Sprite Sheet riding hood_122
+  - first:
+      213: -1970002226059450399
+    second: Sprite Sheet riding hood_123
+  - first:
+      213: 6918388787065753463
+    second: Sprite Sheet riding hood_124
+  - first:
+      213: 6380997107708782160
+    second: Sprite Sheet riding hood_125
+  - first:
+      213: 4595702430349895916
+    second: Sprite Sheet riding hood_126
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1366
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fe11746214e300800000000000000
+      internalID: 280369299407698088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1366
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300dcfec49b0f0e40800000000000000
+      internalID: 5624727193364779011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1366
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e95e8b9e30a2d040800000000000000
+      internalID: 4670971954294839778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1366
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44013386aca3a70800000000000000
+      internalID: 8807574570158540022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1366
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd54564ca8ccc6b0800000000000000
+      internalID: -5274620421317829132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_5
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1367
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edb4c865c3ea7cd0800000000000000
+      internalID: -2559483001200919068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1372
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c33cd238e79d480800000000000000
+      internalID: -8873922488883266506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1374
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c375aad4d1ba03230800000000000000
+      internalID: 3616578643123918652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1372
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f91ca4b45552c750800000000000000
+      internalID: 6323710649078389235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1369
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5639f2c02bf0d3f0800000000000000
+      internalID: -877925809208609187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1366
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b331fb6223845a0800000000000000
+      internalID: -6536919717132420291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_11
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1366
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9932aa1220352830800000000000000
+      internalID: 4045692763296119199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1233
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08936ebbf40e178a0800000000000000
+      internalID: -6309014969909888640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1233
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d34808998d8e60800000000000000
+      internalID: 7966174601954972127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1233
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff377820950fcee0800000000000000
+      internalID: -1238765255791263758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1233
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f84e8e1a64f9d0800000000000000
+      internalID: -2741449593693080528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1233
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f9fdbb9b21e39f0800000000000000
+      internalID: -486931120779190417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1235
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e303ec575026520800000000000000
+      internalID: 2693721530649558671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_18
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1239
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9e8bed6217a180800000000000000
+      internalID: -9104287858393441791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1241
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152bc62c4eba4420800000000000000
+      internalID: 2615111767919633686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_20
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1239
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c8fffcd204acff0800000000000000
+      internalID: -15129083235038113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_21
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1236
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b69557d37e75e970800000000000000
+      internalID: 8783565684255069875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_22
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1234
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92677f52e322e410800000000000000
+      internalID: 1504804680666407581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_23
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1233
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b6f7a4e2f357e0800000000000000
+      internalID: -1777810363996784955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1102
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68d2eba7b5fe51b0800000000000000
+      internalID: -5665821111973914517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48001cf84eb375070800000000000000
+      internalID: 8095004708072128644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_26
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1100
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f311a75a378ef1060800000000000000
+      internalID: 6926510335314235711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1100
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e3add4858ba84b0800000000000000
+      internalID: -5437330910693671296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1100
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdf311f96bad6980800000000000000
+      internalID: -8543984446547427900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_29
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1100
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06628e8bfe6ff420800000000000000
+      internalID: 2665971531133380111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1100
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c67061020b77d0800000000000000
+      internalID: -2919737728483015270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_31
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1100
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e907821d7114fffe0800000000000000
+      internalID: -1153131409034415970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_32
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1100
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f293911946c7e4f0800000000000000
+      internalID: -799452391705177354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1100
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7b46a503108bb30800000000000000
+      internalID: 4303190751139116975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_34
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1100
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162b02efa0d6d150800000000000000
+      internalID: 5897130215918478874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_35
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1100
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fede7c215341048b0800000000000000
+      internalID: -5170110154040414737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 967
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f392f8c1127331290800000000000000
+      internalID: -7920926704261977793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 967
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed936c2f4232428a0800000000000000
+      internalID: -6330896534577202722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 967
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6709cbb26543ed190800000000000000
+      internalID: -7935847948674625418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 968
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607389b2b3b432380800000000000000
+      internalID: -8997264913049569530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_40
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 969
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab004201f4c56280800000000000000
+      internalID: -9050611336727229527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_41
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 970
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037b6d82ca859420800000000000000
+      internalID: 2636165725096211200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_42
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 971
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2b3af84ea33ca30800000000000000
+      internalID: 4234292827995222771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_43
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 971
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4c9c0ba53484a40800000000000000
+      internalID: 5352602213921965305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_44
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 971
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9adc036304acc9b0800000000000000
+      internalID: -5058487946990265698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_45
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 971
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95c730107fe2dca0800000000000000
+      internalID: -5993464889489242726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_46
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 969
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa0960ab9589e320800000000000000
+      internalID: 2587746364358724265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 969
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac271f4cd88d189e0800000000000000
+      internalID: -1620776287470521654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_48
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 834
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c2b498a2806b5e0800000000000000
+      internalID: -1894317614477661119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 834
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c34f82e17947ef0800000000000000
+      internalID: -111297934985511844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 834
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e681a19b16ab1f7a0800000000000000
+      internalID: -6345085471108229010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 834
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00dcd49bc08c5c0800000000000000
+      internalID: -4195089062881853198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 834
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fa687aa21a56ee0800000000000000
+      internalID: -1268430515463606499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_53
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 834
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f483b55ebb02e0800000000000000
+      internalID: -2158422321100687751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_54
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 834
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fea8dd694398b30800000000000000
+      internalID: 4290017942613716888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_55
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 834
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dbb56e167c81d20800000000000000
+      internalID: 3249566354438339854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_56
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 834
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083c9fee9d5235ad0800000000000000
+      internalID: -2714784532426800256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_57
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 834
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb338d68e8debac0800000000000000
+      internalID: -3837391339691754565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_58
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 834
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0252cfe814fd311a0800000000000000
+      internalID: -6839877936380893920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_59
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 834
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3db6a93d6cc8f20800000000000000
+      internalID: 3426332028653261784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_60
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 701
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df201a8001a5db0a0800000000000000
+      internalID: -6864231232132021507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 701
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d6ff1f5ec84c70800000000000000
+      internalID: 8955634766979716950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 701
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60523230be21ef8a0800000000000000
+      internalID: -6269552830673902330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 701
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460394ae00906a20800000000000000
+      internalID: 3053598939922236993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_64
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 701
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e98e115871b3d0800000000000000
+      internalID: -3192638371028932790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 701
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a6c98005dbafc0800000000000000
+      internalID: -3482455688552732760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_66
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 701
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a657cb2e7e0878360800000000000000
+      internalID: 7171842665040606570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_67
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 701
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a094d27536f8d1a0800000000000000
+      internalID: -6784402129213419356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_68
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 701
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715f63123afd45a30800000000000000
+      internalID: 4203230243973428503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_69
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 701
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63067a812ff2f6b20800000000000000
+      internalID: 3129772982887997494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_70
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 701
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309aba4e22c67bbc0800000000000000
+      internalID: -3767423666150987517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_71
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 701
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd99033b011e230800000000000000
+      internalID: 3666229933456875430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 568
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6274a24fb43c8ca30800000000000000
+      internalID: 4235850180528326438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_73
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 568
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a69cddea53e3c00800000000000000
+      internalID: 882201602172742223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_74
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 568
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c9d25e92199de0800000000000000
+      internalID: -1326008144079764023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_75
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 568
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdde7e959a454400800000000000000
+      internalID: 307734156014443982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_76
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 568
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f06a44ab045f2f0800000000000000
+      internalID: -939773778477052115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_77
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 568
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f5f2bb7accfec0800000000000000
+      internalID: -3531725375133058833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_78
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001d0a978b6f4840800000000000000
+      internalID: 5210501524040257546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_79
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ef21f193bccd3f0800000000000000
+      internalID: -874600781421805983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_80
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62a67efe1e09dd30800000000000000
+      internalID: 4456608832540811887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_81
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 568
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22d6ee693170e290800000000000000
+      internalID: -7863160457901190612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_82
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 568
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562734325d9d51e00800000000000000
+      internalID: 1014956800484799077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_83
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 568
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d04df23fc03e80800000000000000
+      internalID: -8200827103537475505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 435
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e919ca40cb4e400800000000000000
+      internalID: 352613399102856731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 435
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cec6f58838ed5b70800000000000000
+      internalID: 8889516568962584256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_86
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 435
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a355937025841db40800000000000000
+      internalID: 5463227340122838330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_87
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 435
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc74b7514c50810800000000000000
+      internalID: 1731005228335483983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_88
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 435
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff93414bc83b8ef0800000000000000
+      internalID: -104927720688607248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_89
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 435
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9ac4b7054e7eb0800000000000000
+      internalID: -4720259460037436837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_90
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 435
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7851d611a913a0800000000000000
+      internalID: -6694142251735942319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_91
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 435
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7161008a13873d0800000000000000
+      internalID: -3208760136875763783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_92
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 435
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39365aade6bd7cf50800000000000000
+      internalID: 6901726223129731987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_93
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 435
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6d7cb28169f4d40800000000000000
+      internalID: 5570836294638491344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_94
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 435
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd019a8021e29b0800000000000000
+      internalID: -5103121499358699583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_95
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 435
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a76330fc4c930200800000000000000
+      internalID: 145131467267336098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_96
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 302
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee4ad1ff5f1c7b0800000000000000
+      internalID: -5205609218200768807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 302
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6322e5ea3ec43c0800000000000000
+      internalID: -4373870800040479050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 302
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7f9ec3bf59f650800000000000000
+      internalID: 6267145582333099506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 302
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa64223ffdda4c50800000000000000
+      internalID: 6650371887893605110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 302
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b052fca676a788d0800000000000000
+      internalID: -2844121611023265607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_101
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 302
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba211e41fd629400800000000000000
+      internalID: 329446605915761338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 302
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c2fab78056b100800000000000000
+      internalID: 123374583686547690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_103
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 302
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dbec2a47697fd10800000000000000
+      internalID: 2159359974039272844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_104
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 302
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a67e5873ef75d1a0800000000000000
+      internalID: -6785376648610023771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_105
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 302
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd1ca7715a0c8640800000000000000
+      internalID: 5083449424410844670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_106
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 302
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0502effacd5cec80800000000000000
+      internalID: -8292149687438146291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_107
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 302
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96074d4a3b4ac330800000000000000
+      internalID: 3731877955006563995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 169
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308deeec8a1bb4450800000000000000
+      internalID: 6074143861023627267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_109
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 169
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f9994f7406d010800000000000000
+      internalID: 1213162094365111180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 169
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9920beae559914b00800000000000000
+      internalID: 811098002195939993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_111
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 169
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd96a72eff1d7f0800000000000000
+      internalID: -589408728027374662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_112
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 169
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79352c23cf3d9c0800000000000000
+      internalID: -3903499157061265448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_113
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 169
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8be8f74dc53de0800000000000000
+      internalID: -1353950403952407337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_114
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 169
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1537eab25b1940af0800000000000000
+      internalID: -431059457012763823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_115
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 169
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a3b43cf40fe8430800000000000000
+      internalID: 3787228562034735662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_116
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 169
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a3d4df691d34d80800000000000000
+      internalID: -8267534044497102277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_117
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 169
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71f20aa61b009bb0800000000000000
+      internalID: -4931429400001187462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_118
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 169
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f93bb6102cc68f20800000000000000
+      internalID: 3424649004854229494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_119
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 169
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3582cfba0cadbdb0800000000000000
+      internalID: -4774470867776010950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_120
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 36
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec9ddbbd17899e30800000000000000
+      internalID: 4510785063563926753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_121
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1963a054a00e49d70800000000000000
+      internalID: 9049103886006761105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_122
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 36
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f682f68aaab4e0800000000000000
+      internalID: -1965070790822529972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_123
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76ff4b96529a4e0800000000000000
+      internalID: -1970002226059450399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_124
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f891752fd030060800000000000000
+      internalID: 6918388787065753463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_125
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056e6cdbf0bdd8850800000000000000
+      internalID: 6380997107708782160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Sheet riding hood_126
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 36
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a766e20737cf30800000000000000
+      internalID: 4595702430349895916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
